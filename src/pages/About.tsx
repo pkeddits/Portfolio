@@ -60,7 +60,7 @@ export default function About() {
             <ul className="space-y-3 text-gray-300">
               <li className="flex items-start gap-2">
                 <span className="text-blue-500 mt-1">▹</span>
-                <span>Desenvolver projetos reais e funcionais</span>
+                <span>• Evoluir como desenvolvedor web</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-blue-500 mt-1">▹</span>
