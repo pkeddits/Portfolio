@@ -33,7 +33,7 @@ export default function Footer() {
             </a>
           </div>
           <p className="text-gray-400 text-sm">
-            © 2024 Meu Portfólio. Desenvolvido com React e Tailwind CSS.
+            © 2026 Meu Portfólio
           </p>
         </div>
       </div>
