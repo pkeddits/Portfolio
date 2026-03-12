@@ -30,8 +30,8 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: 'Calculadora Web',
-    description: 'Calculadora simples desenvolvida para praticar JavaScript básico e manipulação do DOM.',
+    title: 'Website Institucional - Agência de Marketing',
+    description: 'Website institucional desenvolvido para uma agência de marketing digital, com foco em apresentar serviços portfólio e informações da empresa de forma clara e profissional.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
     liveUrl: '#',
