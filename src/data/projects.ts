@@ -71,8 +71,8 @@ export const projects: Project[] = [
     technologies: ['React', 'TypeScript', 'LocalStorage'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
-    liveUrl: '#',
-    githubUrl: '#',
+    liveUrl: 'https://github.com/pkeddits/Portfolio',
+    githubUrl: 'https://github.com/pkeddits/Portfolio',
   },
   {
     id: 8,
