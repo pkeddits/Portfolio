@@ -51,7 +51,7 @@ export const projects: Project[] = [
     title: 'Configuração de Servidor Web Linux',
     description: 'Projeto de configuração de servidor web utilizando Linux. Inclui instalação e configuração de servidor web para hospedar aplicações web.',
     technologies: ['Linux', 'Nginx', 'SSH'],
-    category: 'infrastructure',
+    category: 'inDevelopment',
     status: 'Em desenvolvimento',
     liveUrl: '#',
     githubUrl: '#',
