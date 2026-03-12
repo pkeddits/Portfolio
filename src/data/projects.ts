@@ -22,7 +22,7 @@ export const projects: Project[] = [
   {
     id: 2,
     title: 'Website Institucional - Consultoria Empresarial',
-    description: 'Projeto desenvolvido durante a faculdade com o objetivo de criar um site institucional para uma empresa de consultoria, O foco do projeto foi estruturar páginas institucionais, apresentar serviços e desenvolver uma interface responsiva',
+    description: 'Projeto desenvolvido durante a faculdade com o objetivo de criar um site institucional para uma empresa de consultoria, O foco do projeto foi estruturar páginas institucionais, apresentar serviços e desenvolver uma interface responsiva, Deploy de site estático utilizando AWS S3',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
     liveUrl: '#',
