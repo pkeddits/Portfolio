@@ -20,7 +20,7 @@ export default function Home() {
         <div className="w-full">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl md:text-6xl font-bold text-white mb-6">
-              Olá, sou <span className="text-blue-500">Desenvolvedor</span> e entusiasta de <span className="text-blue-500">Tecnologia</span>
+              Olá, sou <span className="text-blue-500">Flipe Lima</span> Estudante de TI e <span className="text-blue-500">Desenvolvedor Web</span>
             </h1>
             <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
               Iniciante na área de TI, explorando desenvolvimento web, infraestrutura e cloud computing.
