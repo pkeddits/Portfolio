@@ -58,8 +58,8 @@ export const projects: Project[] = [
   },
   {
     id: 6,
-    title: 'Backup Automatizado',
-    description: 'Script simples em Bash para automatizar backups de arquivos importantes usando cron.',
+    title: 'Monitoramento de Servidor Linux',
+    description: 'Projeto de monitoramento de recursos de um servidor Linux, acompanhando uso de CPU, memória e processos ativos. O objetivo é aprender conceitos básicos de monitoramento e administração de sistemas.',
     technologies: ['Bash', 'Linux', 'Cron'],
     category: 'infrastructure',
     liveUrl: '#',
