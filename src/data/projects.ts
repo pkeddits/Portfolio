@@ -90,7 +90,7 @@ export const projects: Project[] = [
     id: 9,
     title: 'Scanner Básico de Portas',
     description: 'Projeto simples de análise de portas abertas em um servidor para estudar conceitos básicos de segurança e redes.',
-    technologies: ['React', 'Node.js', 'PostgreSQL', 'Express'],
+    technologies: ['python', 'sockets', 'linux'],
     category: 'inDevelopment',
     status: 'Projeto futuro',
     liveUrl: '#',
