@@ -27,15 +27,10 @@ export default function About() {
             Sistemas com foco em infraestrutura, Linux e
             fundamentos de segurança da informação.
 
-            Gosto de aprender criando projetos práticos, explorando desde a construção de interfaces até fundamentos de infraestrutura e cloud                   computing.
-
-            Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções cada vez mais completas.
-
           </p>
           <p className="text-gray-300 leading-relaxed">
-            Cada projeto é uma oportunidade de aprender algo novo. Estou construindo
-            minha base de conhecimento, um passo de cada vez, com foco em criar soluções
-            práticas e funcionais.
+            Gosto de aprender criando projetos práticos, explorando desde a construção de interfaces até fundamentos de infraestrutura e cloud                   computing.
+            Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções cada vez mais completas.
           </p>
         </div>
 
