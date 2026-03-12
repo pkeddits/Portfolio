@@ -47,7 +47,7 @@ export const projects: Project[] = [
     githubUrl: 'https://github.com/pkeddits/Portfolio',
   },
   {
-    id: 6,
+    id: 5,
     title: 'Configuração de Servidor Web Linux',
     description: 'Projeto de configuração de servidor web utilizando Linux. Inclui instalação e configuração de servidor web para hospedar aplicações web.',
     technologies: ['Linux', 'Nginx', 'SSH'],
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     githubUrl: '#',
   },
   {
-    id: 7,
+    id: 6,
     title: 'Monitoramento de Servidor Linux',
     description: 'Projeto de monitoramento de recursos de um servidor Linux, acompanhando uso de CPU, memória e processos ativos. O objetivo é aprender conceitos básicos de monitoramento e administração de sistemas.',
     technologies: ['Bash', 'Linux', 'ferramentas de monitoramento'],
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     githubUrl: '#',
   },
   {
-    id: 5,
+    id: 7,
     title: 'Portfólio de Desenvolvedor',
     description: 'Website de portfólio desenvolvido para apresentar meus projetos, habilidades e evolução na área de tecnologia, vou estar sempre o atualizando então o deixarei aqui como em andamento, O site reúne projetos de desenvolvimento web, estudos em infraestrutura e cloud computing.',
     technologies: ['React', 'TypeScript', 'LocalStorage'],
@@ -78,8 +78,8 @@ export const projects: Project[] = [
   },
   {
     id: 8,
-    title: 'Blog Pessoal',
-    description: 'Blog simples para documentar minha jornada de aprendizado em tecnologia. Explorando conceitos de backend.',
+    title: 'Pipeline CI/CD com GitHub Actions',
+    description: 'Implementação de pipeline de integração e deploy contínuo para aplicações web. O objetivo é automatizar testes e deploy utilizando ferramentas de integração contínua.',
     technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
