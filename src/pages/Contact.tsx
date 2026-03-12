@@ -34,7 +34,7 @@ export default function Contact() {
               <Linkedin className="text-blue-500" size={24} />
               <div>
                 <p className="text-white font-medium">LinkedIn</p>
-                <p className="text-gray-400 text-sm">linkedin.com/in/seu-perfil</p>
+                <p className="text-gray-400 text-sm">https://www.linkedin.com/in/felipe-pereira-lima-35904b305/</p>
               </div>
             </a>
 
