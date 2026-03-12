@@ -26,7 +26,7 @@ export const projects: Project[] = [
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
     liveUrl: 'http://consultoriawebsite.s3-website.us-east-2.amazonaws.com',
-    githubUrl: '#',
+    githubUrl: 'https://github.com/pkeddits/SiteConsultoriaADS',
   },
   {
     id: 3,
