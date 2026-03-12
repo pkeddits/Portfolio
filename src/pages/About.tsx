@@ -64,7 +64,7 @@ export default function About() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-blue-500 mt-1">▹</span>
-                <span>Aprofundar conhecimento em cloud computing</span>
+                <span>• Aprender arquitetura de aplicações e cloud computing</span>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-blue-500 mt-1">▹</span>
