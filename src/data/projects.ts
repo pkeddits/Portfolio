@@ -14,7 +14,7 @@ export const projects: Project[] = [
     id: 1,
     title: 'Sistema de Agendamento - Barbearia',
     description: 'Website desenvolvido para uma barbearia com foco em presença online e agendamento de clientes, O projeto inclui interface moderna e integração com backend utilizando Supabase para gerenciamento de dados.',
-    technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Vite'],
+    technologies: ['React', 'JavaScript', 'Supabase', 'css'],
     category: 'web',
     liveUrl: 'https://lucks-studio.vercel.app',
     githubUrl: 'https://github.com/pkeddits/LUCKS-STUDIO',
