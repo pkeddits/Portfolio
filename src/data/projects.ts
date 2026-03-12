@@ -13,7 +13,7 @@ export const projects: Project[] = [
   {
     id: 1,
     title: 'oi',
-    description: 'Site de portfólio desenvolvido para apresentar meus projetos e habilidades. Primeiro projeto usando React e Tailwind CSS.',
+    description: 'Website desenvolvido para uma barbearia com foco em presença online e agendamento de clientes, O projeto inclui interface moderna e integração com backend utilizando Supabase para gerenciamento de dados.',
     technologies: ['React', 'TypeScript', 'Tailwind CSS', 'Vite'],
     category: 'web',
     liveUrl: '#',
