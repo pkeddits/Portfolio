@@ -34,8 +34,8 @@ export const projects: Project[] = [
     description: 'Website institucional desenvolvido para uma agência de marketing digital, com foco em apresentar serviços portfólio e informações da empresa de forma clara e profissional.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
-    liveUrl: '#',
-    githubUrl: '#',
+    liveUrl: 'https://strikemediacompany.vercel.app',
+    githubUrl: 'https://github.com/pkeddits/strikemediacompany',
   },
   {
     id: 4,
