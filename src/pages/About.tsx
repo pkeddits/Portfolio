@@ -68,10 +68,6 @@ export default function About() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-blue-500 mt-1">▹</span>
-                <span>Contribuir com projetos open source</span>
-              </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-500 mt-1">▹</span>
                 <span>• Conseguir minha primeira oportunidade profissional em tecnologia</span>
               </li>
             </ul>
