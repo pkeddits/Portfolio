@@ -48,7 +48,7 @@ export const projects: Project[] = [
   },
   {
     id: 5,
-    title: 'Servidor Linux Local',
+    title: 'Configuração de Servidor Web Linux',
     description: 'Configuração de servidor Linux local para testes e aprendizado. Instalação de Apache e configuração básica de firewall.',
     technologies: ['Linux', 'Apache', 'UFW'],
     category: 'infrastructure',
