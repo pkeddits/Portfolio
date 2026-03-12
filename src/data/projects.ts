@@ -47,7 +47,7 @@ export const projects: Project[] = [
     githubUrl: 'https://github.com/pkeddits/Portfolio',
   },
   {
-    id: 5,
+    id: 6,
     title: 'Configuração de Servidor Web Linux',
     description: 'Projeto de configuração de servidor web utilizando Linux. Inclui instalação e configuração de servidor web para hospedar aplicações web.',
     technologies: ['Linux', 'Nginx', 'SSH'],
@@ -57,7 +57,7 @@ export const projects: Project[] = [
     githubUrl: '#',
   },
   {
-    id: 6,
+    id: 7,
     title: 'Monitoramento de Servidor Linux',
     description: 'Projeto de monitoramento de recursos de um servidor Linux, acompanhando uso de CPU, memória e processos ativos. O objetivo é aprender conceitos básicos de monitoramento e administração de sistemas.',
     technologies: ['Bash', 'Linux', 'ferramentas de monitoramento'],
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     githubUrl: '#',
   },
   {
-    id: 7,
+    id: 5,
     title: 'Portfólio de Desenvolvedor',
     description: 'Website de portfólio desenvolvido para apresentar meus projetos, habilidades e evolução na área de tecnologia, vou estar sempre o atualizando então o deixarei aqui como em andamento, O site reúne projetos de desenvolvimento web, estudos em infraestrutura e cloud computing.',
     technologies: ['React', 'TypeScript', 'LocalStorage'],
