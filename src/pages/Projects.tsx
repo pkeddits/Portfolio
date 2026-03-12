@@ -19,8 +19,8 @@ export default function Projects() {
 
   const categories = [
     { id: 'all' as const, name: 'Todos', icon: Code },
-    { id: 'web' as const, name: 'Web', icon: Code },
-    { id: 'infrastructure' as const, name: 'Infraestrutura', icon: Server },
+    { id: 'web' as const, name: 'Web/sistemas', icon: Code },
+    { id: 'infrastructure' as const, name: 'Infra/cloud', icon: Server },
     { id: 'inDevelopment' as const, name: 'Em Desenvolvimento', icon: Rocket },
   ];
 
