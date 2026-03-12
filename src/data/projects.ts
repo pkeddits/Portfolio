@@ -21,7 +21,7 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    title: 'Landing Page Responsiva',
+    title: 'Website Institucional - Consultoria Empresarial',
     description: 'Página de apresentação simples para um negócio local. Foco em design responsivo e boas práticas de HTML/CSS.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
