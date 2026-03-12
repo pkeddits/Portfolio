@@ -49,14 +49,15 @@ export default function Home() {
               <Server className="mx-auto mb-4 text-blue-500" size={40} />
               <h3 className="text-xl font-bold text-white mb-2">Infraestrutura</h3>
               <p className="text-gray-400">
-                Explorando servidores Linux, redes e fundamentos de TI
+                Estudo de fundamentos de infraestrutura, servidores Linux e redes. 
+                Aprendendo como aplicações funcionam no ambiente real de servidores.
               </p>
             </div>
             <div className="bg-gray-800/50 p-6 rounded-lg border border-gray-700 text-center hover:border-blue-500 transition-colors">
               <Cloud className="mx-auto mb-4 text-blue-500" size={40} />
               <h3 className="text-xl font-bold text-white mb-2">Cloud Computing</h3>
               <p className="text-gray-400">
-                Primeiros passos com AWS e serviços em nuvem
+               Explorando serviços de cloud computing com AWS, aprendendo sobre deploy, armazenamento e arquitetura básica em nuvem.
               </p>
             </div>
           </div>
