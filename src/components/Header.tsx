@@ -20,7 +20,7 @@ export default function Header() {
             onClick={() => scrollToSection('home')}
             className="text-xl font-bold text-white hover:text-blue-400 transition-colors"
           >
-            Meu Portfólio
+            Portfólio
           </button>
 
           <button
