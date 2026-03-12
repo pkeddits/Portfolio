@@ -80,7 +80,7 @@ export const projects: Project[] = [
     id: 8,
     title: 'Pipeline CI/CD com GitHub Actions',
     description: 'Implementação de pipeline de integração e deploy contínuo para aplicações web. O objetivo é automatizar testes e deploy utilizando ferramentas de integração contínua.',
-    technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js'],
+    technologies: ['github actions', 'git', 'Node.js'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
     liveUrl: '#',
