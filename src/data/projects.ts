@@ -25,7 +25,7 @@ export const projects: Project[] = [
     description: 'Projeto desenvolvido durante a faculdade com o objetivo de criar um site institucional para uma empresa de consultoria, O foco do projeto foi estruturar páginas institucionais, apresentar serviços e desenvolver uma interface responsiva, Deploy de site estático utilizando AWS S3',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
-    liveUrl: '#',
+    liveUrl: 'http://consultoriawebsite.s3-website.us-east-2.amazonaws.com',
     githubUrl: '#',
   },
   {
