@@ -34,6 +34,7 @@ export const projects: Project[] = [
     description: 'Calculadora simples desenvolvida para praticar JavaScript básico e manipulação do DOM.',
     technologies: ['HTML', 'CSS', 'JavaScript'],
     category: 'web',
+    liveUrl: '#',
     githubUrl: '#',
   },
   {
@@ -42,6 +43,8 @@ export const projects: Project[] = [
     description: 'Configuração básica de um site estático na AWS usando S3 e CloudFront. Primeiro contato com serviços de cloud.',
     technologies: ['AWS S3', 'CloudFront', 'HTML'],
     category: 'infrastructure',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     id: 5,
@@ -49,6 +52,8 @@ export const projects: Project[] = [
     description: 'Configuração de servidor Linux local para testes e aprendizado. Instalação de Apache e configuração básica de firewall.',
     technologies: ['Linux', 'Apache', 'UFW'],
     category: 'infrastructure',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     id: 6,
@@ -56,6 +61,7 @@ export const projects: Project[] = [
     description: 'Script simples em Bash para automatizar backups de arquivos importantes usando cron.',
     technologies: ['Bash', 'Linux', 'Cron'],
     category: 'infrastructure',
+    liveUrl: '#',
     githubUrl: '#',
   },
   {
@@ -65,6 +71,8 @@ export const projects: Project[] = [
     technologies: ['React', 'TypeScript', 'LocalStorage'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
+    liveUrl: '#',
+    githubUrl: '#',
   },
   {
     id: 8,
@@ -73,6 +81,28 @@ export const projects: Project[] = [
     technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
+    liveUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 9,
+    title: 'Sistema de Gestão',
+    description: 'Aplicação web para gerenciar produtos e estoque. Explorando banco de dados e autenticação.',
+    technologies: ['React', 'Node.js', 'PostgreSQL', 'Express'],
+    category: 'inDevelopment',
+    status: 'Projeto futuro',
+    liveUrl: '#',
+    githubUrl: '#',
+  },
+  {
+    id: 10,
+    title: 'Infraestrutura Docker',
+    description: 'Configuração de ambiente de desenvolvimento usando Docker e Docker Compose para múltiplos serviços.',
+    technologies: ['Docker', 'Docker Compose', 'Linux', 'Nginx'],
+    category: 'inDevelopment',
+    status: 'Projeto futuro',
+    liveUrl: '#',
+    githubUrl: '#',
   },
 ];
 
