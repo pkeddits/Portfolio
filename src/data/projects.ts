@@ -43,8 +43,8 @@ export const projects: Project[] = [
     description: 'Projeto de deploy de website utilizando serviços da AWS para hospedagem de aplicações web estáticas. O objetivo foi aprender conceitos básicos de cloud computing, armazenamento e distribuição de conteúdo',
     technologies: ['AWS S3', 'CloudFront', 'HTML'],
     category: 'infrastructure',
-    liveUrl: '#',
-    githubUrl: '#',
+    liveUrl: 'https://github.com/pkeddits/Portfolio',
+    githubUrl: 'https://github.com/pkeddits/Portfolio',
   },
   {
     id: 5,
