@@ -88,8 +88,8 @@ export const projects: Project[] = [
   },
   {
     id: 9,
-    title: 'Sistema de Gestão',
-    description: 'Aplicação web para gerenciar produtos e estoque. Explorando banco de dados e autenticação.',
+    title: 'Scanner Básico de Portas',
+    description: 'Projeto simples de análise de portas abertas em um servidor para estudar conceitos básicos de segurança e redes.',
     technologies: ['React', 'Node.js', 'PostgreSQL', 'Express'],
     category: 'inDevelopment',
     status: 'Projeto futuro',
