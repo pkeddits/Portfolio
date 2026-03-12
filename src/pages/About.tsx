@@ -72,7 +72,7 @@ export default function About() {
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-blue-500 mt-1">▹</span>
-                <span>Crescer profissionalmente na área de TI</span>
+                <span>• Conseguir minha primeira oportunidade profissional em tecnologia</span>
               </li>
             </ul>
           </div>
