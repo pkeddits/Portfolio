@@ -66,8 +66,8 @@ export const projects: Project[] = [
   },
   {
     id: 7,
-    title: 'Lista de Tarefas',
-    description: 'Aplicativo de lista de tarefas para praticar React e gerenciamento de estado. Ainda em desenvolvimento.',
+    title: 'Portfólio de Desenvolvedor',
+    description: 'Website de portfólio desenvolvido para apresentar meus projetos, habilidades e evolução na área de tecnologia, vou estar sempre o atualizando então o deixarei aqui como em andamento, O site reúne projetos de desenvolvimento web, estudos em infraestrutura e cloud computing.',
     technologies: ['React', 'TypeScript', 'LocalStorage'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
