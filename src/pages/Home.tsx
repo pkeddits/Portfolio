@@ -41,7 +41,8 @@ export default function Home() {
               <Code className="mx-auto mb-4 text-blue-500" size={40} />
               <h3 className="text-xl font-bold text-white mb-2">Desenvolvimento Web</h3>
               <p className="text-gray-400">
-                Aprendendo HTML, CSS, JavaScript e React para criar experiências web
+                Criação de sites e interfaces web utilizando HTML, CSS, JavaScript e React. 
+                Foco em sites modernos, responsivos e bem estruturados.
               </p>
             </div>
             <div className="bg-gray-800/50 p-6 rounded-lg border border-gray-700 text-center hover:border-blue-500 transition-colors">
