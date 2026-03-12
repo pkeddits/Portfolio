@@ -39,8 +39,8 @@ export const projects: Project[] = [
   },
   {
     id: 4,
-    title: 'Ambiente de Teste AWS',
-    description: 'Configuração básica de um site estático na AWS usando S3 e CloudFront. Primeiro contato com serviços de cloud.',
+    title: 'Deploy de Website na AWS',
+    description: 'Projeto de deploy de website utilizando serviços da AWS para hospedagem de aplicações web estáticas. O objetivo foi aprender conceitos básicos de cloud computing, armazenamento e distribuição de conteúdo',
     technologies: ['AWS S3', 'CloudFront', 'HTML'],
     category: 'infrastructure',
     liveUrl: '#',
