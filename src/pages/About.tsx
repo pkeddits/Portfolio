@@ -23,9 +23,14 @@ export default function About() {
             <h3 className="text-2xl font-bold text-white">Minha Jornada</h3>
           </div>
           <p className="text-gray-300 leading-relaxed mb-4">
-            Sou um iniciante apaixonado por tecnologia, explorando o vasto mundo da TI.
-            Comecei minha jornada recentemente com desenvolvimento web e logo me interessei
-            também por infraestrutura e cloud computing.
+            Estudante de Análise e Desenvolvimento de
+            Sistemas com foco em infraestrutura, Linux e
+            fundamentos de segurança da informação.
+
+            Gosto de aprender criando projetos práticos, explorando desde a construção de interfaces até fundamentos de infraestrutura e cloud                   computing.
+
+            Meu objetivo é evoluir constantemente como desenvolvedor e construir soluções cada vez mais completas.
+
           </p>
           <p className="text-gray-300 leading-relaxed">
             Cada projeto é uma oportunidade de aprender algo novo. Estou construindo
