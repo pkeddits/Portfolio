@@ -47,7 +47,7 @@ export default function Contact() {
               <Github className="text-blue-500" size={24} />
               <div>
                 <p className="text-white font-medium">GitHub</p>
-                <p className="text-gray-400 text-sm">github.com/seu-usuario</p>
+                <p className="text-gray-400 text-sm">https://github.com/pkeddits</p>
               </div>
             </a>
           </div>
