@@ -60,7 +60,7 @@ export const projects: Project[] = [
     id: 6,
     title: 'Monitoramento de Servidor Linux',
     description: 'Projeto de monitoramento de recursos de um servidor Linux, acompanhando uso de CPU, memória e processos ativos. O objetivo é aprender conceitos básicos de monitoramento e administração de sistemas.',
-    technologies: ['Bash', 'Linux', 'Cron'],
+    technologies: ['Bash', 'Linux', 'ferramentas de monitoramento'],
     category: 'inDevelopment',
     status: 'Em desenvolvimento',
     liveUrl: '#',
