@@ -80,8 +80,7 @@ export default function About() {
 
         <div className="bg-gradient-to-r from-blue-900/20 to-purple-900/20 rounded-lg p-8 border border-blue-800/30">
           <p className="text-gray-300 text-center text-lg italic">
-            "A jornada de mil milhas começa com um único passo. Cada linha de código,
-            cada erro corrigido, cada conceito aprendido me aproxima dos meus objetivos."
+            "Cada projeto que desenvolvo é um passo na minha evolução como desenvolvedor."
           </p>
         </div>
       </div>
