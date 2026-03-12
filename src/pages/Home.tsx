@@ -23,8 +23,8 @@ export default function Home() {
               Olá, sou <span className="text-blue-500">Flipe Lima</span> Estudante de TI e <span className="text-blue-500">Desenvolvedor Web</span>
             </h1>
             <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto">
-              Iniciante na área de TI, explorando desenvolvimento web, infraestrutura e cloud computing.
-              Cada linha de código é um passo na minha jornada de aprendizado.
+              Sou estudante e entusiasta de tecnologia, focado em desenvolvimento web e explorando infraestrutura e cloud computing. 
+               Crio projetos para aprender na prática e construir soluções simples, funcionais e bem estruturadas.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button onClick={() => scrollToSection('projects')}>
